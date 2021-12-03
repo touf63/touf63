@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @touf63
 - 👀 I’m interested in Computer Science, Video Games, Motorsports
-- 🌱 I’m currently learning Python and Traffic Simulation
+- 🌱 I’m currently learning Python, Data Science and Traffic Simulation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
